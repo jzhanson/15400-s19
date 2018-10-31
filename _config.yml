@@ -18,8 +18,8 @@ email: jzhanson (at) andrew (dot) cmu (dot) edu
 description: >- # this means to ignore newlines until "baseurl:"
   Progress reports for 15-400 Research Practicum in Computer Science, Spring 2019.
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/15400-s19" # the subpath of your site, e.g. /blog
+url: "http://jzhanson.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jzhanson
 
 # Build settings
