@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Milestone 3"
+date:   2019-02-13 00:00:00 -0400
+categories: update
+---
+[Link to PDF](../../../../milestone3.pdf)
